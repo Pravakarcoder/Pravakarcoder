@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pravakarportfolio.vercel.app/)
 
 - 💬 Ask me about **React, Next.js and Tailwind CSS**
 
