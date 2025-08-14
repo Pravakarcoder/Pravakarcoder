@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pravakar+Adhikari;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Passionate+Coder+from+Nepal;Building+Scalable+%26+Modern+Web+Apps" alt="Typing animation" />
 </p>
 
-<!-- Neon GIF -->
+<!-- Larger Neon GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="350" alt="Coding gif" />
 </p>
 
 <!-- Profile View + Social Badges -->
@@ -50,13 +50,6 @@
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pravakarcoder&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravakarcoder&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
