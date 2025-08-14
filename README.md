@@ -1,89 +1,67 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Pravakar Adhikari</h1>
-<h3 align="center">🚀 Passionate Software Engineer from Nepal | MERN Stack & Next.js Enthusiast</h3>
-
-<!-- GIF -->
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pravakar+Adhikari;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Passionate+Coder+from+Nepal;Building+Scalable+%26+Modern+Web+Apps" alt="Typing animation" />
 </p>
 
-<!-- Badges -->
+<!-- Neon GIF -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pravakarcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/pravakarcoder?tab=followers">
-    <img src="https://img.shields.io/github/followers/pravakarcoder?label=Followers&style=for-the-badge" alt="Followers"/>
-  </a>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+</p>
+
+<!-- Profile View + Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pravakarcoder&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile views" />
   <a href="https://pravakarportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-### 🌟 About Me
-- 🌱 Currently learning **Express.js**
-- 👨‍💻 Explore all my projects here: [Portfolio](https://pravakarportfolio.vercel.app/)
-- 💬 Ask me about **React, Next.js, Tailwind CSS**
-- 📫 Reach me at **pravakaradhikari13@gmail.com**
-- 📄 Check my experiences: [Resume](Resume here)
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/pravakar-adhikari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-%2300F7FF.svg?&style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:pravakaradhikari13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/pravakarcoder">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://linkedin.com/in/pravakar-adhikari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+## 🌟 About Me
+💻 Full Stack Developer specializing in **React, Next.js, Tailwind CSS, and Node.js**  
+🚀 Passionate about creating **scalable & beautiful web apps**  
+📚 Currently learning **Express.js**  
+📄 Check my experiences: [Resume](Resume here)  
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,redux,figma,firebase,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pravakarcoder&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravakarcoder&show_icons=true&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pravakarcoder&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravakarcoder&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravakarcoder&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=pravakarcoder&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 🏆 Trophies
+## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravakarcoder&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pravakarcoder&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
-⭐ **Inspired by passion. Powered by code.** 🚀
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" />
+</p>
