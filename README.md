@@ -26,9 +26,7 @@
 
 ## 🌟 About Me
 💻 Full Stack Developer specializing in **React, Next.js, Tailwind CSS, and Node.js**  
-🚀 Passionate about creating **scalable & beautiful web apps**  
-📚 Currently learning **Express.js**  
-📄 Check my experiences: [Resume](Resume here)  
+🚀 Passionate about creating **scalable & beautiful web apps**   
 
 ---
 
